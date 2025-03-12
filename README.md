@@ -11,23 +11,23 @@ Using the powerful X (Twitter) API, the *Twheatwave Program* scrapes X's (tweets
 ## **Installation Instructions**
 
 ### 1. **Install Pandas**:
-  - Install to process, manipulate, and analyze data
+  - Used to process, manipulate, and analyze data
   - Install using 'pip install pandas'
 
 ### 2. **Install Matplotlib**:
-  - Install to establish creating static and interactive visualizations
+  - Used to establish creating static and interactive visualizations
   - Install using 'pip install matplotlib'
 
 ### 3. **Install Textblob**:
-  - Install to establish natural language processing sentiment analysis
+  - Used to establish natural language processing sentiment analysis
   - Install using 'pip install -U textblob'
 
 ### 4. **Install TwitterAPI (https://geduldig.github.io/TwitterAPI/)**:
-  - Install to establish access to the Twitter API 
-  - Install node using 'pip install python-dotenv'
+  - Used to establish access to the Twitter API 
+  - Install using 'pip install python-dotenv'
 
 ### 5. **Install Dotenv**:
-  - Install to create virtual environment and establish the following X REST API parameters:
+  - Used to create virtual environment and establish the following X REST API parameters:
     - API key (this is your 'consumer key')
     - API secret key (this is your 'consumer secret')
     - Bearer token
