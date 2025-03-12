@@ -24,7 +24,7 @@ Using the powerful X (Twitter) API, the *Twheatwave Program* scrapes X's (tweets
 
 ### 4. **Install TwitterAPI (https://geduldig.github.io/TwitterAPI/)**:
   - Used to establish access to the Twitter API 
-  - Install using 'pip install python-dotenv'
+  - Install using 'pip install TwitterAPI'
 
 ### 5. **Install Dotenv**:
   - Used to create virtual environment and establish the following X REST API parameters:
